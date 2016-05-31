@@ -11,15 +11,19 @@ body {
     height: 20px;
 }
 #sidebar-spacer {
-    height: 57px;
+    height: 40px;
 }
 #sidebar-links {
     padding-left: 20px;
 }
+#pineapple {
+    padding-top: 110px;
+    padding-left: 48px;
+}
 .sidebar-nav > .sidebar-brand {
     padding-bottom: 20px;
     padding-top: 30px;
-    padding-left: 20px;
+    padding-left: 68px;
     padding-right: 20px;
 }
 .sidebar-nav li {
@@ -82,7 +86,7 @@ body {
     max-width: 400px;
 }
 .home-footer {
-    padding-top: 15px;
+    padding-top: 25px;
     color: #141414;
     font-size: 10px;
     font-family: futura;
